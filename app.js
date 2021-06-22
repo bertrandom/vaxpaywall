@@ -12,7 +12,7 @@ app.engine('hb', exphbs({
 }));
 
 app.set('view engine', 'hb');
-app.enable('view cache');
+// app.enable('view cache');
 
 app.use(express.static('static'));
 
