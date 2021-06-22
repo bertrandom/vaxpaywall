@@ -1,3 +1,11 @@
+{{#if validationFailed }}
+	<div class="container" style="margin-top: 20px;">
+		<div class="alert alert-danger" role="alert">
+			Sorry, there was a problem validating your record. Please try again.
+		</div>
+	</div>
+{{/if}}
+
 <main class="bg-dark">
 
 	<article xmlns="http://www.w3.org/1999/xhtml" class="ebook" typeof="schema:Book">
