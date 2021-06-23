@@ -40,6 +40,9 @@
 		<span class="text-white">If you're a resident of California, you can get your Digital COVID-19 Vaccine Record <a
 				href="https://myvaccinerecord.cdph.ca.gov/">here</a>.</span>
 	</div>
+	<div style="margin-top: 25px" class="container text-center">
+		<span class="text-white">You can read more about this paywall example <a href="https://bert.org/2021/06/23/vaccination-paywalls/">here</a>.</span>
+	</div>
 
 </main>
 <!-- Modal -->
