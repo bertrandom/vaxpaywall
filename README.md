@@ -11,7 +11,9 @@ npm install
 
 ## Running
 
+```
 node app
+```
 
 or
 
