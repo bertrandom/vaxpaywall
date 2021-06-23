@@ -5,7 +5,7 @@ module.exports = {
    */
   apps : [
     {
-      name      : 'mva',
+      name      : 'vaxpaywall',
       script    : './app.js',
       watch     : true,
       ignore_watch: ["node_modules", ".git"],

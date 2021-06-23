@@ -1,14 +1,14 @@
 {
-  "name": "mva",
+  "name": "vaxpaywall",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "pm2": "pm2 start ecosystem.config.js",
-    "ngrok": "ngrok http -bind-tls=true -subdomain=bert 8080",
+    "ngrok": "ngrok http -bind-tls=true -subdomain=vaxpaywall 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bertrand Fan <bertrand@fan.net>",
+  "author": "Bertrand Fan <bert@bert.org>",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.6",
