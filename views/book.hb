@@ -462,6 +462,13 @@
 		]]></style>
 	</head>
 	<body>
+		{{#if example }}
+		<div class="container" style="margin-top: 20px;">
+			<div class="alert alert-warning" role="alert">
+				Note: This vaccine record is not from a valid source, but for example purposes it is being treated as valid.
+			</div>
+		</div>
+		{{/if}}
         <div id="card" class="container-sm">
             <div class="card">
                 <div class="card-body">
