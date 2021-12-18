@@ -480,7 +480,6 @@
 							<tr>
 								<th scope="col">Date</th>
 								<th scope="col">Manufacturer</th>
-								<th scope="col">Where</th>
 								<th scope="col">Lot</th>
 							</tr>
 						</thead>
@@ -489,7 +488,6 @@
 							<tr>
 								<td>{{this.when}}</td>
 								<td>{{this.type}}</td>
-								<td>{{this.where}}</td>
 								<td>{{this.lot}}</td>
 							</tr>
 							{{/each}}
